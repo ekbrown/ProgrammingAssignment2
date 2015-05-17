@@ -1,5 +1,5 @@
 ## Script that defines two functions:
-## makeCacheMatrix() provides getter and setters methods for a matrix and its inverse
+## makeCacheMatrix() provides getter and setter methods for a matrix and its inverse
 ## cacheSolve() calculates the inverse of the matrix supplied from makeCacheMatrix()
 
 ## A class that gets and sets a square matrix and gets and sets its inverse
